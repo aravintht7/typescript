@@ -2,7 +2,7 @@
 import connect from './connect';
 
 
-const db = 'mongodb+srv://aravintht:XulUozFp67VoP175@cluster0.xchmu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+const db = 'url';
 
 
 connect({db});
